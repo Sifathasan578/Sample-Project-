@@ -1,0 +1,229 @@
+/* nav styles */
+
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    margin:0px 150px ;
+    
+}
+.nav-title{
+    font-size: 34px;
+    font-weight: 600px;
+    display: flex;
+    
+
+    
+
+}
+.text-primary{
+    color: #4E47FF;
+
+}
+nav li{
+    list-style: none;
+    margin-left: auto;
+    
+}
+.btn-primary{
+    margin-right: 50px;
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+}
+.banner-content{
+    font-weight: bold;
+    font-size: 65px;
+    color: #252432;
+    
+    
+}
+.banner{
+    text-align: center;
+   padding-top: 200px;
+   padding-bottom: 0px;
+
+    
+}
+
+.header{
+    background-image: url('../B12A01-landing-launchpad/Assets/Hero-bg.png');
+}
+.btn-stay{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 250px;
+}
+.btn-focus{
+    margin-top: -50px;
+
+}
+.action-first{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+}
+.action-description{
+    font-size: 24px;
+    font-weight: normal;
+    color: rgba(37, 36, 50, 0.5);
+
+}
+.action-profile-pic{
+    width: 400px;
+    margin: 50px 159px;
+    border-radius: 48px;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 159px 0px 159px;
+}
+.action-content{
+    max-width: 517px;
+}
+.p-all{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+.h-all{
+    font-size: 80px;
+    font-weight: bold;
+    color: rgba(78, 71, 255, 1);
+}
+.section-first{
+    font-size: 38px;
+    font-weight: bold;
+
+}
+.section-content{
+    display: flex;
+    justify-content: space-around;
+}
+.productive{
+    background-color: rgba(78, 71, 255, 0.1);
+    border-radius: 24px;
+    margin-top: 116px;
+    text-align: center;
+    margin-left: 145px;
+    margin-right: 162px;
+    padding: 50px 142px;
+}
+.section-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 42px;
+}
+.design-container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.studio{
+    padding: 24px;
+    border-radius: 14px;
+    background-color: #F2EDED;
+    
+}
+.name{
+    color: rgba(117, 117, 117, 1);
+    font-size: 20px;
+}
+.description{
+    color: rgba(30, 30, 30, 1);
+    font-size: 25px;
+}
+.design-title{
+    font-weight: 600px;
+    font-size: 42px;
+    
+}
+.Reviewer{
+    border-radius: 9999px;
+}
+.info{
+    align-items: center;
+    margin-top: 0px;
+    margin-left: 90px;
+    margin-bottom: 15px;
+}
+.touch{
+    padding: 150px 250px;
+    background-color: lavender;
+    display: flex;
+    gap: 100px;
+    
+}
+.form-coloum{
+    width: 50%;
+}
+.form-title{
+    font-weight: bold;
+    font-size: 96px;
+}
+input[type="text"] , input[type="email"],textarea{
+    height: 70px;
+    border-radius: 10px;
+    display: block;
+    padding: 20px 32px;
+    width: 100%;
+    border: none;
+    margin-bottom: 10px;
+
+}
+.btn-touch{
+    background-color: #4E47FF;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 12px 36px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 250px;
+    width: 100%;
+
+}
+.cng{
+    font-weight: bolder;
+    font-size: 100px;
+    color: #4E47FF;
+}
+.cng-des{
+    color: #8987A1;
+}
+.last {
+    
+    
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+div li{
+    
+    list-style: none;
+}
+div li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #8987A1;
+    gap: 48px;
+
+}
+.logo{
+    text-align: center;
+}
